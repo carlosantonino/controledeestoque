@@ -1,0 +1,1 @@
+## vamos criar app para gerenciamoento de estoque
